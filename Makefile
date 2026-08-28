@@ -1,3 +1,4 @@
+REPO_NAME ?= portfolio
 OST ?= localhost
 PORT ?= 4500
 LOG_FILE = /tmp/jekyll$(PORT).log

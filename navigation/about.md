@@ -129,14 +129,14 @@ Gallery of Pics, scroll to the right for more!
 
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}Me_n_Nandika.jpg" alt="Image 1">
-  <img src="{{site.baseurl}}Prom_ab_me.jpg" alt="Image 2">
-  <img src="{{site.baseurl}}Kuchipudi_pose_ab_me.jpg" alt="Image 3">
-  <img src="{{site.baseurl}}Banff_ab_me.jpg" alt="Image 4">
-  <img src="{{site.baseurl}}Aahan_ab_me.jpg" alt="Image 5">
-  <img src="{{site.baseurl}}ELGS_ab_me.jpg" alt="Image 6">
-  <img src="{{site.baseurl}}Dance_grad_ab_me.jpg" alt="Image 7">
-  <img src="{{site.baseurl}}Me_n_mom.jpg" alt="Image 8">
-  <img src="{{site.baseurl}}Me_n_kae_ab_me.png" alt="Image 9">
-  <img src="{{site.baseurl}}Me_n_Aahan_ab_me.jpg" alt="Image 10">
+  <img src="{{site.baseurl}}/Me_n_Nandika.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/Prom_ab_me.jpg" alt="Image 2">
+  <img src="{{site.baseurl}}/Kuchipudi_pose_ab_me.jpg" alt="Image 3">
+  <img src="{{site.baseurl}}/Banff_ab_me.jpg" alt="Image 4">
+  <img src="{{site.baseurl}}/Aahan_ab_me.jpg" alt="Image 5">
+  <img src="{{site.baseurl}}/ELGS_ab_me.jpg" alt="Image 6">
+  <img src="{{site.baseurl}}/Dance_grad_ab_me.jpg" alt="Image 7">
+  <img src="{{site.baseurl}}/Me_n_mom.jpg" alt="Image 8">
+  <img src="{{site.baseurl}}/Me_n_kae_ab_me.png" alt="Image 9">
+  <img src="{{site.baseurl}}/Me_n_Aahan_ab_me.jpg" alt="Image 10">
 </div>

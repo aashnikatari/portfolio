@@ -129,14 +129,14 @@ Gallery of Pics, scroll to the right for more!
 
 </comment>
 <div class="image-gallery">
-  <img width="3456" height="3200" alt="Image" src="https://github.com/user-attachments/assets/f512e904-52c8-406c-a4d9-bad12cada586" />
-  <img src="{{site.baseurl}}/assets/img/Prom_ab_me.jpg" alt="Image 2">
-  <img src="{{site.baseurl}}/assets/img/Kuchipudi_pose_ab_me.jpg" alt="Image 3">
-  <img src="{{site.baseurl}}/assets/img/Banff_ab_me.jpg" alt="Image 4">
-  <img src="{{site.baseurl}}/assets/img/Aahan_ab_me.jpg" alt="Image 5">
-  <img src="{{site.baseurl}}/assets/img/ELGS_ab_me.jpg" alt="Image 6">
-  <img src="{{site.baseurl}}/assets/img/Dance_grad_ab_me.jpg" alt="Image 7">
-  <img src="{{site.baseurl}}/assets/img/Me_n_mom.jpg" alt="Image 8">
-  <img src="{{site.baseurl}}/assets/img/Me_n_kae_ab_me.png" alt="Image 9">
-  <img src="{{site.baseurl}}/assets/img/Me_n_Aahan_ab_me.jpg" alt="Image 10">
+  <img src="{{ '/assets/img/Me_n_Nandika.jpg' | relative_url }}" alt="Image 1">
+  <img src="{{ '/assets/img/Prom_ab_me.jpg' | relative_url }}" alt="Image 2">
+  <img src="{{ '/assets/img/Kuchipudi_pose_ab_me.jpg' | relative_url }}" alt="Image 3">
+  <img src="{{ '/assets/img/Banff_ab_me.jpg' | relative_url }}" alt="Image 4">
+  <img src="{{ '/assets/img/Aahan_ab_me.jpg' | relative_url }}" alt="Image 5">
+  <img src="{{ '/assets/img/ELGS_ab_me.jpg' | relative_url }}" alt="Image 6">
+  <img src="{{ '/assets/img/Dance_grad_ab_me.jpg' | relative_url }}" alt="Image 7">
+  <img src="{{ '/assets/img/Me_n_mom.jpg' | relative_url }}" alt="Image 8">
+  <img src="{{ '/assets/img/Me_n_kae_ab_me.png' | relative_url }}" alt="Image 9">
+  <img src="{{ '/assets/img/Me_n_Aahan_ab_me.jpg' | relative_url }}" alt="Image 10">
 </div>

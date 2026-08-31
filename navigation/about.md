@@ -123,10 +123,8 @@ Gallery of Pics, scroll to the right for more!
   <img src="{{site.baseurl}}Banff_ab_me.jpg" alt="Image 4">
   <img src="{{site.baseurl}}Aahan_ab_me.jpg" alt="Image 5">
   <img src="{{site.baseurl}}ELGS_ab_me.jpg" alt="Image 6">
-  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
-  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
-  <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
-  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
-  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
-  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
+  <img src="{{site.baseurl}}Dance_grad_ab_me.jpg" alt="Image 7">
+  <img src="{{site.baseurl}}Me_n_mom.jpg" alt="Image 8">
+  <img src="{{site.baseurl}}Me_n_kae_ab_me.png" alt="Image 9">
+  <img src="{{site.baseurl}}Me_n_Aahan_ab_me.jpg" alt="Image 10">
 </div>

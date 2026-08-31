@@ -125,7 +125,7 @@ Gallery of Pics, scroll to the right for more!
 7. At a dance certificate event
 8. Me and my mom
 9. Me and my best friend
-10. Me and my brother
+10. Me and my brother!!
 
 </comment>
 <div class="image-gallery">

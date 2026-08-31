@@ -115,6 +115,18 @@ Here is a timeline of the important moments in my life:
 
 <comment>
 Gallery of Pics, scroll to the right for more!
+
+1. Me and my childhood friend
+2. Me and my friends at prom
+3. After a dance performance
+4. At Banff National Park in Canada
+5. My brother
+6. At a Girl Scout event
+7. At a dance certificate event
+8. Me and my mom
+9. Me and my best friend
+10. Me and my brother
+
 </comment>
 <div class="image-gallery">
   <img src="{{site.baseurl}}Me_n_Nandika.jpg" alt="Image 1">

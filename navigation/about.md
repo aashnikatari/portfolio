@@ -129,7 +129,7 @@ Gallery of Pics, scroll to the right for more!
 
 </comment>
 <div class="image-gallery">
-  <img src="{{ '/assets/img/Me_n_Nandika.png' | relative_url }}" alt="Image 1">
+  <img src="{{ '/assets/img/Me_n_Nandika.jpeg' | relative_url }}" alt="Image 1">
   <img src="{{ '/assets/img/Prom_ab_me.png' | relative_url }}" alt="Image 2">
   <img src="{{ '/assets/img/Kuchipudi_pose_ab_me.png' | relative_url }}" alt="Image 3">
   <img src="{{ '/assets/img/Banff_ab_me.png' | relative_url }}" alt="Image 4">

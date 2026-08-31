@@ -129,14 +129,14 @@ Gallery of Pics, scroll to the right for more!
 
 </comment>
 <div class="image-gallery">
-  <img src="{{ '/assets/img/Me_n_Nandika.jpg' | relative_url }}" alt="Image 1">
-  <img src="{{ '/assets/img/Prom_ab_me.jpg' | relative_url }}" alt="Image 2">
-  <img src="{{ '/assets/img/Kuchipudi_pose_ab_me.jpg' | relative_url }}" alt="Image 3">
-  <img src="{{ '/assets/img/Banff_ab_me.jpg' | relative_url }}" alt="Image 4">
-  <img src="{{ '/assets/img/Aahan_ab_me.jpg' | relative_url }}" alt="Image 5">
-  <img src="{{ '/assets/img/ELGS_ab_me.jpg' | relative_url }}" alt="Image 6">
-  <img src="{{ '/assets/img/Dance_grad_ab_me.jpg' | relative_url }}" alt="Image 7">
-  <img src="{{ '/assets/img/Me_n_mom.jpg' | relative_url }}" alt="Image 8">
+  <img src="{{ '/assets/img/Me_n_Nandika.png' | relative_url }}" alt="Image 1">
+  <img src="{{ '/assets/img/Prom_ab_me.png' | relative_url }}" alt="Image 2">
+  <img src="{{ '/assets/img/Kuchipudi_pose_ab_me.png' | relative_url }}" alt="Image 3">
+  <img src="{{ '/assets/img/Banff_ab_me.png' | relative_url }}" alt="Image 4">
+  <img src="{{ '/assets/img/Aahan_ab_me.png' | relative_url }}" alt="Image 5">
+  <img src="{{ '/assets/img/ELGS_ab_me.png' | relative_url }}" alt="Image 6">
+  <img src="{{ '/assets/img/Dance_grad_ab_me.png' | relative_url }}" alt="Image 7">
+  <img src="{{ '/assets/img/Me_n_mom.png' | relative_url }}" alt="Image 8">
   <img src="{{ '/assets/img/Me_n_kae_ab_me.png' | relative_url }}" alt="Image 9">
-  <img src="{{ '/assets/img/Me_n_Aahan_ab_me.jpg' | relative_url }}" alt="Image 10">
+  <img src="{{ '/assets/img/Me_n_Aahan_ab_me.png' | relative_url }}" alt="Image 10">
 </div>

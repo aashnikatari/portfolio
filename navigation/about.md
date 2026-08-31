@@ -129,7 +129,7 @@ Gallery of Pics, scroll to the right for more!
 
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/assets/img/Me_n_Nandika.jpg" alt="Image 1">
+  <img width="3456" height="3200" alt="Image" src="https://github.com/user-attachments/assets/f512e904-52c8-406c-a4d9-bad12cada586" />
   <img src="{{site.baseurl}}/assets/img/Prom_ab_me.jpg" alt="Image 2">
   <img src="{{site.baseurl}}/assets/img/Kuchipudi_pose_ab_me.jpg" alt="Image 3">
   <img src="{{site.baseurl}}/assets/img/Banff_ab_me.jpg" alt="Image 4">
